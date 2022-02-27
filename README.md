@@ -2,7 +2,7 @@
 🌱 I’m a AWS Certified Solution Architect and currently learning **Web Development**<br/>
 📝 I regulary write articles on [BlueTEXT.in](https://www.bluetext.in/)<br/>
 💬 Ask me about **Blogger (Google)**<br/>
-#You can also join out youtube channel CodeOn at : https://youtube.com/c/CodeOn
+#You can also join out youtube channel CodeOn at : [ CodeOn Youtube Channel ]https://youtube.com/c/CodeOn
 <p align=center>
   <a href="#" title="Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=CodeOnYT&show_icons=true&theme=gotham">
