@@ -4,12 +4,11 @@
 💬 Ask me about **Blogger (Google)**<br/>
 #You can also join out youtube channel CodeOn at : [ CodeOn Youtube Channel ]https://youtube.com/c/CodeOn
 <p align=center>
-  <a href="#" title="Stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=CodeOnYT&show_icons=true&theme=gotham">
   </a>
-  <a href="#" title="Stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeOnYT&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
+  ![Tulsiram Methre AKA - CodeOn GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeOnYT&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeOnYT)](CodeOnYT)
+  
 </p>
 
 
